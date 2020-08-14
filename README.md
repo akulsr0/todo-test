@@ -1,4 +1,6 @@
 # todo-test
 
-  cd ./todo-test
-  yarn start
+```
+cd ./todo-test
+yarn start
+```
